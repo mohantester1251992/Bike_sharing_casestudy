@@ -28,12 +28,6 @@ The dataset used in this project contains daily bike rental counts along with va
 - registered: Count of registered users
 - cnt: Total rental bikes (casual + registered)
 
-## Project Structure
-- `day.csv`: The dataset file containing daily bike rental counts and features.
-- `Linear Regression Subjective Questions (1).pdf`: The file containing subjective questions related to the project.
-- `Linear_Regression_Subjective_Questions_Answers.docx`: Document containing answers to the subjective questions.
-- `Bike_Sharing_Demand_Prediction.ipynb`: Jupyter notebook containing the entire analysis, model building, and evaluation.
-- `README.md`: This file, providing an overview of the project.
 
 ## Steps Followed
 1. **Data Exploration and Cleaning:**
